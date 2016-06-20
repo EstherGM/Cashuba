@@ -1,0 +1,35 @@
+Claves facilitadas por la anterior CM de Tarjesol.
+
+•	Twitter:
+@tarjesol
+#c0790#
+
+
+•	Google:
+marketing@tarjesol.com
+#c0790#
+
+•	Google:
+marketing@tarjesol.com
+pagina0202
+
+
+Además he creado dos cuentas en gestores de contenido de redes sociales y las contraseñas son las que adjunto:
+
+•	Socialbro
+@tarjesol
+#c0790#
+
+
+•	Hootsuite:
+marketing@tarjesol.com
+#c0790#Hootsuite
+
+ACCESO AL PLESK PARA CONFIGURAR EL DOMINIO, BUZONES, PÁGINAS…..
+Dos formas de acceder: https://tarjesol.com:8443 ó https://86.109.167.188:8443
+Usuario:              a0085u0049
+Clave:                   Marques.7.ana
+ 
+ACCESO AL FTP PARA SUBIR LAS PÁGINAS MEDIANTE PROGRAMAS DE TRANSMISIÓN FTP.
+Usuario:              ftp.tarjesol
+Clave:   4164.bhkT
